@@ -1,11 +1,14 @@
-# Getting Started
-- Hit run
-- Edit [App.tsx](#src/App.tsx) and watch it live update!
 
-# Learn More
+## 效果
+<img width="1186" alt="image" src="https://github.com/ConnectAI-E/BaseScript-RandomSort/assets/110169811/d6e27285-cd09-4591-9143-103f20fd3e2b">
 
-You can learn more in the [Base Extension Development Guide](https://bytedance.feishu.cn/docx/VxhudDXbyo1V7jxAcTbctJQ5nvc) or [多维表格扩展脚本开发指南](https://bytedance.feishu.cn/docx/HazFdSHH9ofRGKx8424cwzLlnZc).
 
-## Install packages
+## 运行
+1️⃣ clone deme
+```
+git clone https://github.com/ConnectAI-E/BaseScript-RandomSort
+pnpm install
+pnpm dev
+```
+2️⃣ 复制 http://localhost:5173/ 到 多维表格 webview 地址
 
-Install packages in Shell pane or search and add in Packages pane.
